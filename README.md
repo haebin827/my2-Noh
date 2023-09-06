@@ -26,3 +26,11 @@ The table below is the four sports I recommend others to try!
 | Swimming | Full-body workout | 2~3 |
 | Baseball | Great team sport | 2~4 |
 | Yoga | For your flexibility | 1~2 |
+
+---
+
+## Favorite Quotes
+
+> "The important thing is not to stop questioning." - *Albert Einstein*
+
+> "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - *Stephen Hawking*
