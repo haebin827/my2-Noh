@@ -16,4 +16,13 @@ The reason I like **Guam** is because it has a **beautiful sea**. They also have
 
 ---
 
-### 
+## Recommended Sports
+
+The table below is the four sports I recommend others to try!
+
+| Sport | Reason why I recommend it | Average weekly hours |
+| --- | --- | --- |
+| Soccer | Running is good for health | 1~2 |
+| Swimming | Full-body workout | 2~3 |
+| Baseball | Great team sport | 2~4 |
+| Yoga | For your flexibility | 1~2 |
