@@ -41,7 +41,7 @@ The table below is the four sports I recommend others to try!
 
 > "How to install PHP 7.4 on Visualmin?" [From Stack Overflow](https://stackoverflow.com/questions/tagged/php)
 
-'''
+```php
 <?php 
   
 function startsWith($string, $startString) { 
@@ -54,6 +54,6 @@ echo startsWith("cat", "c"); // true
 echo startsWith("dog", "x"); // false
 
 ?> 
-'''
+```
 
 Snippet source: [CSS-Tricks](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
